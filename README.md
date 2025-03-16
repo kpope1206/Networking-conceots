@@ -5,9 +5,7 @@
 
 - <b>Microsoft Azure Networking Concepts</b>
   - [Microsoft Azure: Azure set-up](https://github.com/kpope1206/initial-setup)
-  - [Microsoft Azure: downloading Wireshark](https://github.com/kpope1206/wireshark)
-  - [Microsoft Azure: Testing VM's](https://github.com/kpope1206/ping-VM)
-
+ 
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
